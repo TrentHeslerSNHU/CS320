@@ -1,4 +1,6 @@
-# CS320
+# CS320 - Contact Service
+This repository is my coursework for SNHU's CS320 course. This coursework had students design a contact service, a means for users to store and retrieve people's contact information, in Java. The purpose of creating this contact service was mainly to give students experience creating tests to ensure security and proper functioning of software.
+
 ## How can I ensure that my code, program, or software is functional and secure?
 The best way to ensure that your code, program, or software is secure is to perform extensive testing. Personally, I believe one should perform multiple different forms of testing, including static, dynamic, and vulnerability testing. Ideally, the code would be developed iteratively and many of these tests would be performed on each iteration.
 
